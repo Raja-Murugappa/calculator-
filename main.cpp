@@ -48,7 +48,7 @@ int main()
 
             case 4:
                 if (b == 0)
-                    cout << "Cannot divide by zero.\n";
+                    cout << "Cannot  by zero.\n";
                 else
                     cout << "Result: " << divide(a, b) << endl;
                 break;
