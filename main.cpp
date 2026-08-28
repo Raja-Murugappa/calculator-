@@ -54,7 +54,7 @@ int main()
                 break;
 
             default:
-                cout << "Invalid choice!\n";
+                cout << "Raja choice!\n";
         }
     }
 
