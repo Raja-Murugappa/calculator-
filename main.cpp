@@ -11,7 +11,7 @@ int main()
     while (true)
     {
         cout << "\n===== CALCULATOR =====\n";
-        cout << "1. Addition\n";
+        cout << "1. Add\n";
         cout << "2. Subtraction\n";
         cout << "3. Mul\n";
         cout << "4. Division\n";
