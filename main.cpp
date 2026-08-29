@@ -11,10 +11,10 @@ int main()
     while (true)
     {
         cout << "\n===== CALCULATOR =====\n";
-        cout << "1. Addition\n";
+        cout << "1. Add\n";
         cout << "2. sub\n";
         cout << "3. Mul\n";
-        cout << "4. Division\n";
+        cout << "4. Div\n";
         cout << "5. Exit\n";
 
         cout << "Enter choice: ";
